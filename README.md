@@ -34,7 +34,7 @@ poetry add [dependecias]
 After training the model, you can use it to recognize medications in text by running the `predict.py` script. Make sure to provide the necessary input data in the correct format.
 
 ```python
-python predict.py --input "This is a sample text containing medication names like Aspirin and Ibuprofen."
+python predict.py --input "This is a sample text containing medication names like Aspirin and Ibuprofen." 2024
 ```
 
 ## Contributing
